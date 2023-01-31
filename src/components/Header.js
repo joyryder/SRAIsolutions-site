@@ -2,7 +2,7 @@ function Header() {
   return (
     <header>
       <video src="./video.mp4" loop autoPlay muted></video>
-      <h1>Open Source Website</h1>
+      <h1>AI Technologies</h1>
       <h1 style={{textAlign: "center", color:"#01bf71"}}>
         Our goal is to create open-source AI projects through interdisciplinary 
         research collaborations between leaders and subject-matter experts, 
