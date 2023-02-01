@@ -49,7 +49,7 @@ function Footer() {
                     <Link to="#" >sraisolutions@gmail.com</Link>
                   </li>
                   <li>
-                    <Link to="#" >35 John St, Rochester, NY</Link>
+                    <Link to="#" >380 John St, Rochester, NY</Link>
                   </li>
                   <li>
                     <Link to="#" >585 512 4971</Link>
