@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SRAIsolutions-site/static/css/main.78294792.css",
-    "main.js": "/SRAIsolutions-site/static/js/main.e5fb8399.js",
+    "main.js": "/SRAIsolutions-site/static/js/main.f86ba2fa.js",
     "index.html": "/SRAIsolutions-site/index.html",
     "main.78294792.css.map": "/SRAIsolutions-site/static/css/main.78294792.css.map",
-    "main.e5fb8399.js.map": "/SRAIsolutions-site/static/js/main.e5fb8399.js.map"
+    "main.f86ba2fa.js.map": "/SRAIsolutions-site/static/js/main.f86ba2fa.js.map"
   },
   "entrypoints": [
     "static/css/main.78294792.css",
-    "static/js/main.e5fb8399.js"
+    "static/js/main.f86ba2fa.js"
   ]
 }
